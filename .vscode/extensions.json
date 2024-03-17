@@ -1,0 +1,32 @@
+{
+  "recommendations": [
+    "antfu.browse-lite",
+    "antfu.iconify",
+    "antfu.unocss",
+    "antfu.vite",
+    "antfu.open-in-github-button",
+    "lokalise.i18n-ally",
+    "vitest.explorer",
+    // themes & icons
+    "antfu.icons-carbon",
+    "GitHub.github-vscode-theme",
+    "PKief.material-icon-theme",
+    // framework specific extensions
+    "Vue.volar",
+    "astro-build.astro-vscode",
+    // optiional
+    "dbaeumer.vscode-eslint",
+    "GitHub.copilot",
+    "usernamehw.errorlens",
+    "streetsidesoftware.code-spell-checker",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "github.vscode-github-actions",
+    "GitHub.vscode-pull-request-github",
+    "johnsoncodehk.vscode-tsconfig-helper",
+    "mpontus.tab-cycle",
+    "naumovs.color-highlight",
+    "znck.grammarly",
+    "ms-azuretools.vscode-docker"
+  ]
+}
