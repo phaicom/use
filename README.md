@@ -18,24 +18,10 @@ Tools I use for my daily work
 ## Production app
 - Web browser: [Vivaldi](https://vivaldi.com)
 - [Docker desktop](https://www.docker.com/products/docker-desktop)
-- [DbGate](https://dbgate.org) - Database client
 
 ## Design, Documentation and services
 - [Notion](https://www.notion.so) - Note taking and documentation
 - [Whimsical](https://whimsical.com) - Diagrams and flowcharts
-- [Vercel](https://vercel.com) - Hosting and deployment
-- [Turso](https://turso.tech) - Relational Database as a service
-
-## Hardware
-- Macbook Pro 13"
-- PC with Windows 11
-  - CPU: AMD Ryzen 7 5800X
-  - GPU: NVIDIA RTX 3080 TI
-  - Motherboard: B550M
-  - RAM: 32GB Dual Channel
-  - Storage: 1TB NVMe M2 and 1TB SSD
-  - Monitor: 27" and 24"
-  - Keyboard: 60% mechanical keyboard
 
 ## Acknowledgements
 - [@antfu/use](https://github.com/antfu/use)
