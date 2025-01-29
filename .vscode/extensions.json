@@ -2,18 +2,15 @@
   "recommendations": [
     "antfu.browse-lite",
     "antfu.iconify",
-    "antfu.unocss",
-    "antfu.vite",
+    "bradlc.vscode-tailwindcss",
     "antfu.open-in-github-button",
     "lokalise.i18n-ally",
     "vitest.explorer",
     // themes & icons
     "antfu.icons-carbon",
     "GitHub.github-vscode-theme",
-    "PKief.material-icon-theme",
     // framework specific extensions
     "Vue.volar",
-    "astro-build.astro-vscode",
     // optiional
     "dbaeumer.vscode-eslint",
     "GitHub.copilot",
