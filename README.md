@@ -1,7 +1,7 @@
-# @Phaicom/use
-Tools I use for my daily work
+# @phaicom/use
+This repository documents the essential tools and configurations I use for my daily software development work.
 
-## Development Tools
+## 🛠️ Development Tools
 
 ### Editor and Fonts
 - [Visual Studio Code](https://code.visualstudio.com)
@@ -22,7 +22,7 @@ Tools I use for my daily work
 ### Code Quality
 - [@phaicom/eslint-config](https://github.com/phaicom/eslint-config) - Lint and Format
 
-## Applications
+## 🤖 Applications
 
 ### Browser
 - [Vivaldi](https://vivaldi.com) - Web browser
@@ -32,5 +32,5 @@ Tools I use for my daily work
 - [Notion](https://www.notion.so) - Documentation
 - [Whimsical](https://whimsical.com) - Diagramming
 
-## Acknowledgements
+## 👏 Acknowledgements
 - [@antfu/use](https://github.com/antfu/use)
