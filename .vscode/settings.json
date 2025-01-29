@@ -13,13 +13,14 @@
   "workbench.list.smoothScrolling": true,
   "workbench.preferredDarkColorTheme": "GitHub Dark Dimmed",
   "workbench.preferredLightColorTheme": "GitHub Light Default",
-  "workbench.iconTheme": "material-icon-theme",
   "workbench.productIconTheme": "icons-carbon",
+  "workbench.sideBar.location": "right",
   "workbench.startupEditor": "newUntitledFile",
   "workbench.tree.expandMode": "singleClick",
   "workbench.tree.indent": 10,
   // ========== Editor ========== 
   "debug.onTaskErrors": "debugAnyway",
+  "diffEditor.ignoreTrimWhitespace": false,
   "editor.wordSeparators": "`~!@#%^&*()=+[{]}\\|;:'\",.<>/?",
   "editor.find.addExtraSpaceOnTop": false,
   "editor.inlineSuggest.enabled": true,
@@ -78,7 +79,6 @@
     "**/CHANGELOG*": true,
     "**/LICENSE*": true,
   },
-  "vite.autoStart": false,
   // ==========  Global Level Config, needs to put in User Settings ========== 
   "window.dialogStyle": "custom",
   "window.nativeTabs": true, // this is great, macOS only
@@ -225,4 +225,6 @@
   "prettier.printWidth": 200,
   "prettier.semi": false,
   "prettier.singleQuote": true,
+  // Disable telemetry
+  "redhat.telemetry.enabled": false,
 }
