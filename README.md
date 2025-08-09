@@ -9,7 +9,7 @@ This repository documents the essential tools and configurations I use for my da
 - [Fira Code](https://github.com/tonsky/FiraCode) - Programming font
 
 ### Terminal Environment
-- EndeavourOS with [Zsh](https://ohmyz.sh) and [Oh My Zsh](ohmyzsh/ohmyzsh)
+- WSL2 and MacBook Pro with [Zsh](https://ohmyz.sh) and [Oh My Zsh](ohmyzsh/ohmyzsh)
   - Config: [.zshrc](./terminal/.zshrc)
 
 ### Package Management
