@@ -32,5 +32,24 @@ This repository documents the essential tools and configurations I use for my da
 - [Notion](https://www.notion.so) - Documentation
 - [Whimsical](https://whimsical.com) - Diagramming
 
+### New Projects
+- ni -D @commitlint/cli @commitlint/config-conventional @phaicom/eslint-config eslint eslint-plugin-format lint-staged simple-git-hooks
+```
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "simple-git-hooks": {
+    "pre-commit": "npx lint-staged",
+    "commit-msg": "npx commitlint --edit ${1}"
+  },
+  "lint-staged": {
+    "**/*.{js,ts,vue,json}": [
+      "eslint --fix --cache"
+    ]
+  }
+```
+
 ## 👏 Acknowledgements
 - [@antfu/use](https://github.com/antfu/use)
